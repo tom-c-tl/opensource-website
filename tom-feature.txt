@@ -1,0 +1,12 @@
+This is Tom's feature request:
+
+I want to be able to see the top 1000 projects by number of stars.
+
+I also want to be able to see the top 1000 projects by number of forks.
+
+I also want to be able to see the top 1000 projects by number of contributors.
+
+I also want to be able to see the top 1000 projects by number of subscribers.
+
+I also want to be able to see the top 1000 projects by number of watchers.
+
